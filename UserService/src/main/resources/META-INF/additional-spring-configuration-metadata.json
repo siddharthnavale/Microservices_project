@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "server.spring.datasource",
+    "type": "java.lang.String",
+    "description": "A description for 'server.spring.datasource'"
+  },
+  {
+    "name": "server.spring.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'server.spring.jpa'"
+  },
+  {
+    "name": "server.spring.hibernate",
+    "type": "java.lang.String",
+    "description": "A description for 'server.spring.hibernate'"
+  }
+]}
